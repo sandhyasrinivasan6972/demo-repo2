@@ -1,4 +1,4 @@
-## README file for DEmo-repo2
+## README file for Demo-repo2
 
 
 some text description
